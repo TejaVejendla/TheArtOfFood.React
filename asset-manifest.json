@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.48589f45.chunk.css",
-    "main.js": "/static/js/main.a8d2d00a.chunk.js",
-    "main.js.map": "/static/js/main.a8d2d00a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d10ac219.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d10ac219.js.map",
-    "static/js/2.e07a9503.chunk.js": "/static/js/2.e07a9503.chunk.js",
-    "static/js/2.e07a9503.chunk.js.map": "/static/js/2.e07a9503.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d8d803acd2e0c5ce768162b89f3880e1.js": "/precache-manifest.d8d803acd2e0c5ce768162b89f3880e1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.48589f45.chunk.css.map": "/static/css/main.48589f45.chunk.css.map",
-    "static/js/2.e07a9503.chunk.js.LICENSE.txt": "/static/js/2.e07a9503.chunk.js.LICENSE.txt",
-    "static/media/home.scss": "/static/media/background_1.27716853.webp",
-    "static/media/facebook.webp": "/static/media/facebook.9bf983d6.webp",
-    "static/media/instagram.webp": "/static/media/instagram.b3c7d798.webp",
-    "static/media/pinterest.webp": "/static/media/pinterest.c47bc799.webp",
-    "static/media/twitter.webp": "/static/media/twitter.a36c161a.webp"
+    "main.css": "/TheArtOfFood.React/static/css/main.d8604b01.chunk.css",
+    "main.js": "/TheArtOfFood.React/static/js/main.d33a253e.chunk.js",
+    "main.js.map": "/TheArtOfFood.React/static/js/main.d33a253e.chunk.js.map",
+    "runtime-main.js": "/TheArtOfFood.React/static/js/runtime-main.eaa37e0f.js",
+    "runtime-main.js.map": "/TheArtOfFood.React/static/js/runtime-main.eaa37e0f.js.map",
+    "static/js/2.e07a9503.chunk.js": "/TheArtOfFood.React/static/js/2.e07a9503.chunk.js",
+    "static/js/2.e07a9503.chunk.js.map": "/TheArtOfFood.React/static/js/2.e07a9503.chunk.js.map",
+    "index.html": "/TheArtOfFood.React/index.html",
+    "precache-manifest.1ce43bf19c7b70b49bc9bb9158850578.js": "/TheArtOfFood.React/precache-manifest.1ce43bf19c7b70b49bc9bb9158850578.js",
+    "service-worker.js": "/TheArtOfFood.React/service-worker.js",
+    "static/css/main.d8604b01.chunk.css.map": "/TheArtOfFood.React/static/css/main.d8604b01.chunk.css.map",
+    "static/js/2.e07a9503.chunk.js.LICENSE.txt": "/TheArtOfFood.React/static/js/2.e07a9503.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/TheArtOfFood.React/static/media/background_1.27716853.webp",
+    "static/media/facebook.webp": "/TheArtOfFood.React/static/media/facebook.9bf983d6.webp",
+    "static/media/instagram.webp": "/TheArtOfFood.React/static/media/instagram.b3c7d798.webp",
+    "static/media/pinterest.webp": "/TheArtOfFood.React/static/media/pinterest.c47bc799.webp",
+    "static/media/twitter.webp": "/TheArtOfFood.React/static/media/twitter.a36c161a.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.d10ac219.js",
+    "static/js/runtime-main.eaa37e0f.js",
     "static/js/2.e07a9503.chunk.js",
-    "static/css/main.48589f45.chunk.css",
-    "static/js/main.a8d2d00a.chunk.js"
+    "static/css/main.d8604b01.chunk.css",
+    "static/js/main.d33a253e.chunk.js"
   ]
 }
