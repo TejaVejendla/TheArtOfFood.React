@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TheArtOfFood.React/static/css/main.8b50918c.chunk.css",
-    "main.js": "/TheArtOfFood.React/static/js/main.abc7fbe4.chunk.js",
-    "main.js.map": "/TheArtOfFood.React/static/js/main.abc7fbe4.chunk.js.map",
+    "main.js": "/TheArtOfFood.React/static/js/main.2c2cb021.chunk.js",
+    "main.js.map": "/TheArtOfFood.React/static/js/main.2c2cb021.chunk.js.map",
     "runtime-main.js": "/TheArtOfFood.React/static/js/runtime-main.eaa37e0f.js",
     "runtime-main.js.map": "/TheArtOfFood.React/static/js/runtime-main.eaa37e0f.js.map",
     "static/js/2.7d5e334b.chunk.js": "/TheArtOfFood.React/static/js/2.7d5e334b.chunk.js",
     "static/js/2.7d5e334b.chunk.js.map": "/TheArtOfFood.React/static/js/2.7d5e334b.chunk.js.map",
     "index.html": "/TheArtOfFood.React/index.html",
-    "precache-manifest.843c6932c7a22c2c1125839452a55322.js": "/TheArtOfFood.React/precache-manifest.843c6932c7a22c2c1125839452a55322.js",
+    "precache-manifest.84ccc6893ae90269dcfb27160fa967aa.js": "/TheArtOfFood.React/precache-manifest.84ccc6893ae90269dcfb27160fa967aa.js",
     "service-worker.js": "/TheArtOfFood.React/service-worker.js",
     "static/css/main.8b50918c.chunk.css.map": "/TheArtOfFood.React/static/css/main.8b50918c.chunk.css.map",
     "static/js/2.7d5e334b.chunk.js.LICENSE.txt": "/TheArtOfFood.React/static/js/2.7d5e334b.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.eaa37e0f.js",
     "static/js/2.7d5e334b.chunk.js",
     "static/css/main.8b50918c.chunk.css",
-    "static/js/main.abc7fbe4.chunk.js"
+    "static/js/main.2c2cb021.chunk.js"
   ]
 }
