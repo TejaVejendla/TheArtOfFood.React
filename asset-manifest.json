@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TheArtOfFood.React/static/css/main.45573033.chunk.css",
-    "main.js": "/TheArtOfFood.React/static/js/main.b64276f9.chunk.js",
-    "main.js.map": "/TheArtOfFood.React/static/js/main.b64276f9.chunk.js.map",
+    "main.css": "/TheArtOfFood.React/static/css/main.05463735.chunk.css",
+    "main.js": "/TheArtOfFood.React/static/js/main.0531cde8.chunk.js",
+    "main.js.map": "/TheArtOfFood.React/static/js/main.0531cde8.chunk.js.map",
     "runtime-main.js": "/TheArtOfFood.React/static/js/runtime-main.eaa37e0f.js",
     "runtime-main.js.map": "/TheArtOfFood.React/static/js/runtime-main.eaa37e0f.js.map",
-    "static/js/2.1e9a0b3c.chunk.js": "/TheArtOfFood.React/static/js/2.1e9a0b3c.chunk.js",
-    "static/js/2.1e9a0b3c.chunk.js.map": "/TheArtOfFood.React/static/js/2.1e9a0b3c.chunk.js.map",
+    "static/js/2.db89b6e4.chunk.js": "/TheArtOfFood.React/static/js/2.db89b6e4.chunk.js",
+    "static/js/2.db89b6e4.chunk.js.map": "/TheArtOfFood.React/static/js/2.db89b6e4.chunk.js.map",
     "index.html": "/TheArtOfFood.React/index.html",
-    "precache-manifest.13009a522f2334ae4a7ff7c5adf4fa2b.js": "/TheArtOfFood.React/precache-manifest.13009a522f2334ae4a7ff7c5adf4fa2b.js",
+    "precache-manifest.115d362ae469d17d0e9d9f34a9c73f15.js": "/TheArtOfFood.React/precache-manifest.115d362ae469d17d0e9d9f34a9c73f15.js",
     "service-worker.js": "/TheArtOfFood.React/service-worker.js",
-    "static/css/main.45573033.chunk.css.map": "/TheArtOfFood.React/static/css/main.45573033.chunk.css.map",
-    "static/js/2.1e9a0b3c.chunk.js.LICENSE.txt": "/TheArtOfFood.React/static/js/2.1e9a0b3c.chunk.js.LICENSE.txt",
+    "static/css/main.05463735.chunk.css.map": "/TheArtOfFood.React/static/css/main.05463735.chunk.css.map",
+    "static/js/2.db89b6e4.chunk.js.LICENSE.txt": "/TheArtOfFood.React/static/js/2.db89b6e4.chunk.js.LICENSE.txt",
     "static/media/about.scss": "/TheArtOfFood.React/static/media/about.714928d8.webp",
     "static/media/home.scss": "/TheArtOfFood.React/static/media/background_1.27716853.webp",
     "static/media/portfolio.scss": "/TheArtOfFood.React/static/media/food-service.455ce195.webp",
@@ -21,6 +21,7 @@
     "static/media/book (1).webp": "/TheArtOfFood.React/static/media/book (1).a53d8bf7.webp",
     "static/media/book (2).webp": "/TheArtOfFood.React/static/media/book (2).36c64790.webp",
     "static/media/book (3).webp": "/TheArtOfFood.React/static/media/book (3).dcff3251.webp",
+    "static/media/contact.webp": "/TheArtOfFood.React/static/media/contact.e74ea01a.webp",
     "static/media/facebook.webp": "/TheArtOfFood.React/static/media/facebook.9bf983d6.webp",
     "static/media/instagram.webp": "/TheArtOfFood.React/static/media/instagram.b3c7d798.webp",
     "static/media/pinterest.webp": "/TheArtOfFood.React/static/media/pinterest.c47bc799.webp",
@@ -28,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.eaa37e0f.js",
-    "static/js/2.1e9a0b3c.chunk.js",
-    "static/css/main.45573033.chunk.css",
-    "static/js/main.b64276f9.chunk.js"
+    "static/js/2.db89b6e4.chunk.js",
+    "static/css/main.05463735.chunk.css",
+    "static/js/main.0531cde8.chunk.js"
   ]
 }
