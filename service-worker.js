@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TheArtOfFood.React/precache-manifest.84ccc6893ae90269dcfb27160fa967aa.js"
+  "/TheArtOfFood.React/precache-manifest.3712d587db9f8577ace47cac1321b669.js"
 );
 
 self.addEventListener('message', (event) => {
